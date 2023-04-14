@@ -1,5 +1,5 @@
-- Hi, I’m @ronygeorgen
-- I’m interested in Full Stack Development
+- Hi, I’m Rony George
+- I’m interested in Full Stack Development (MERN)
 - I’m currently learning javascript
 
 
