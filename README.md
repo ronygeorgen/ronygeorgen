@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ronygeorgen
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning javascript
+- Hi, I’m @ronygeorgen
+- I’m interested in Full Stack Development
+- I’m currently learning javascript
 
 
 <!---
