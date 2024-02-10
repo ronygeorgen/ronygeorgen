@@ -1,6 +1,6 @@
 - Hi, I’m Rony George
-- I’m interested in Full Stack Development (Python Django + React)
-- I’m currently learning javascript
+- I’m a Full Stack Developer (Python Django + React)
+
 
 
 <!---
